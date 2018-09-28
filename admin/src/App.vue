@@ -12,6 +12,7 @@
 <script>
   import VueQriously from 'vue-qriously';
   import Vue from 'vue';
+  import './assets/style/iconfont.css'
   Vue.use(VueQriously);
   export default {
     name: 'App'

@@ -2,6 +2,14 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <h2>Essential Links</h2>
+    <div>
+      <span class="iconfont icon-zhuanfa"></span>
+      <span style="font-size: 28px">123456</span>
+    </div>
+    <div style="margin-top: 20px">
+      <span class="iconfont icon-zhuanfa"></span>
+      <span style="font-size: 28px">测试测试测试</span>
+    </div>
   </div>
 </template>
 

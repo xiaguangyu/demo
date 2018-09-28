@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<qriously value="Hello Worldefedfdf!" :size="200" />
+		<qriously value="Hello World efedfdf!" :size="200" />
 		<div>{{ msg | aaa}}</div>
 	</div>
 </template>
